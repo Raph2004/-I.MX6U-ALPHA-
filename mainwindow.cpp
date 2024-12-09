@@ -1,12 +1,3 @@
-/******************************************************************
-Copyright © Deng Zhimao Co., Ltd. 2021-2030. All rights reserved.
-* @projectName   video_client
-* @brief         mainwindow.cpp
-* @author        Deng Zhimao
-* @email         dengzhimao@alientek.com
-* @link          www.openedv.com
-* @date          2021-11-20
-*******************************************************************/
 #include "mainwindow.h"
 #include <QDebug>
 MainWindow::MainWindow(QWidget *parent)

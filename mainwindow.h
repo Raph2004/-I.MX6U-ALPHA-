@@ -1,12 +1,3 @@
-/******************************************************************
-Copyright © Deng Zhimao Co., Ltd. 2021-2030. All rights reserved.
-* @projectName   video_client
-* @brief         mainwindow.h
-* @author        Deng Zhimao
-* @email         dengzhimao@alientek.com
-* @link          www.openedv.com
-* @date          2021-11-20
-*******************************************************************/
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
